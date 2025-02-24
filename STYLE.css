@@ -1,0 +1,25 @@
+.box{
+    
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.rect{
+    
+    display: flex;
+    align-items: center;
+justify-content: center;
+}
+.shape{
+    border:solid black;
+    display: flex;
+    border-width: 2px;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+align-items: center;
+    margin-top:10px;
+    margin-left:10px;
+    
+    
+}
