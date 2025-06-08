@@ -1,3 +1,2 @@
 # projectone : first project
-author: 
-Dev Pathak.   
+author: DEV PATHAK.
